@@ -27,7 +27,7 @@ htdocs/
 ## Como Executar
 1. Colocar a pasta `m5-fp03` dentro do diretório `htdocs` do XAMPP.  
 2. Iniciar o servidor Apache e MySQL no XAMPP.  
-3. Aceder via browser à pasta do projeto (`http://localhost/2i-14714/m5-fp03/login/`) e utilizar as funcionalidades do CRUD.
+3. Aceder via browser à pasta do projeto (`https://a14714-oficina.infinityfree.me/m5-login/`) e utilizar as funcionalidades do CRUD.
 
 ## Autor
 - **Carlos Alves**  
