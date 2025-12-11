@@ -6,8 +6,8 @@ Este projeto consiste no desenvolvimento de um **sistema CRUD** (Create, Read, U
 ## Funcionalidades
 - **CRUD de Alunos e Produtos:** Adicionar, consultar, atualizar e remover registos.  
 - **Página de Login:** Acesso controlado ao sistema.  
-- **Base de Dados MySQL:** Gerida no phpMyAdmin e exportada como `redes-m5-fp03-12345.sql`.  
-- **Entrega do Projeto:** Pastas `login` e `crud` compactadas em `redes-m5-fp03-12345.zip`.
+- **Base de Dados MySQL:** Gerida no phpMyAdmin e exportada como `redes-m5-fp03-14714.sql`.  
+- **Entrega do Projeto:** Pastas `login` e `crud` compactadas em `redes-m5-fp03-14714.zip`.
 
 ## Estrutura do Projeto
 htdocs/
@@ -27,7 +27,7 @@ htdocs/
 ## Como Executar
 1. Colocar a pasta `m5-fp03` dentro do diretório `htdocs` do XAMPP.  
 2. Iniciar o servidor Apache e MySQL no XAMPP.  
-3. Aceder via browser à pasta do projeto (`http://localhost/2i-12345/m5-fp03/login/`) e utilizar as funcionalidades do CRUD.
+3. Aceder via browser à pasta do projeto (`http://localhost/2i-14714/m5-fp03/login/`) e utilizar as funcionalidades do CRUD.
 
 ## Autor
 - **Carlos Alves**  
